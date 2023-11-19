@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
+
 <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="right">
   <br><br>
